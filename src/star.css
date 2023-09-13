@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;700&family=Rubik+Iso&display=swap');
+
+.stars{
+    display: flex;
+    max-width: 100px;
+    color: #adad00;
+    font-family: 'Rubik Iso', cursive;
+}
+
+.flexStar{
+    display: flex;
+    flex-direction: column-reverse;
+}
+h1{
+    max-width: 120px;
+}
+span{
+    font-weight: bold;
+    font-family: 'Roboto Mono', monospace;
+    background-color: #f020207c;
+    padding: 3px;
+    border-radius: 5px;
+}
+p{
+    margin: 3px;
+}
+.title{
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
